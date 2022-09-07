@@ -17,10 +17,8 @@
  
 <div> 
   <a href="https://www.instagram.com/motion_iv/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-5c25d3?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-5c25d3?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-5c25d3?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-5c25d3?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-5c25d3?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href = "mailto:adrianelizandro78@gmail.com"><img src="https://img.shields.io/badge/-Gmail-5c25d3?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/adrian-elizandro-1634511b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-5c25d3?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
  
   ![Snake animation](https://github.com/Mottion/Mottion/blob/output/github-contribution-grid-snake.svg)
